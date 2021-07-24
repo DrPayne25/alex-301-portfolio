@@ -34,6 +34,19 @@ Finish time: 10:50pm
 
 Actual time needed to complete: 9min
 
+# Task: 03 Nav Header Footer
+Clean UX
+
+Number and name of feature: ReDo Profile Page
+
+Estimate of time needed to complete: 1hr
+
+Start time: ?
+
+Finish time: ?
+
+Actual time needed to complete: 2hr Time came from trello showing the time started and ending different will update with times if trello does. 
+
 ### Links and Resources
 * [submission PR](http://xyz.com)
 * Any Links you used as reference
