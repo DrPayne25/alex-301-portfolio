@@ -21,6 +21,19 @@ Finish time: 10:50pm
 
 Actual time needed to complete: 9min
 
+# Task: 02 Profile Page
+Update Profile page to include my personal info and adjust titles
+
+Number and name of feature: ReDo Profile Page
+
+Estimate of time needed to complete: 30min
+
+Start time: 11:20pm
+
+Finish time: 10:50pm
+
+Actual time needed to complete: 9min
+
 ### Links and Resources
 * [submission PR](http://xyz.com)
 * Any Links you used as reference
