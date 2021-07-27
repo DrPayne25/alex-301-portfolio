@@ -202,7 +202,7 @@ class DemoNavbar extends React.Component {
                       id="tooltip333589074"
                       target="_blank"
                     >
-                      <i className="fa fa-facebook-square" />
+                      <i className="fa fa-linkedin-square" />
                       <span className="nav-link-inner--text d-lg-none ml-2">
                         Facebook
                       </span>

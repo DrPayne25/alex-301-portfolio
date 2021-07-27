@@ -67,7 +67,7 @@ class SimpleFooter extends React.Component {
                   target="_blank"
                 >
                   <span className="btn-inner--icon">
-                    <i className="fa fa-facebook-square" />
+                    <i className="fa fa-linkedin-square" />
                   </span>
                 </Button>
                 <UncontrolledTooltip delay={0} target="tooltip837440414">
